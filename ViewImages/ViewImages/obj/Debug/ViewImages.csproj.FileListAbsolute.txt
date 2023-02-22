@@ -1,0 +1,11 @@
+F:\Visual Studio Program\ViewImages\ViewImages\bin\Debug\ViewImages.exe.config
+F:\Visual Studio Program\ViewImages\ViewImages\bin\Debug\ViewImages.exe
+F:\Visual Studio Program\ViewImages\ViewImages\bin\Debug\ViewImages.pdb
+F:\Visual Studio Program\ViewImages\ViewImages\obj\Debug\ViewImages.csproj.AssemblyReference.cache
+F:\Visual Studio Program\ViewImages\ViewImages\obj\Debug\ViewImages.csproj.SuggestedBindingRedirects.cache
+F:\Visual Studio Program\ViewImages\ViewImages\obj\Debug\ViewImages.Form1.resources
+F:\Visual Studio Program\ViewImages\ViewImages\obj\Debug\ViewImages.Properties.Resources.resources
+F:\Visual Studio Program\ViewImages\ViewImages\obj\Debug\ViewImages.csproj.GenerateResource.cache
+F:\Visual Studio Program\ViewImages\ViewImages\obj\Debug\ViewImages.csproj.CoreCompileInputs.cache
+F:\Visual Studio Program\ViewImages\ViewImages\obj\Debug\ViewImages.exe
+F:\Visual Studio Program\ViewImages\ViewImages\obj\Debug\ViewImages.pdb
